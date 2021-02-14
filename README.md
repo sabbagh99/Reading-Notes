@@ -5,6 +5,6 @@
 
 [Code 201 - Foundations of Software Development](./code-201/Readme.md)
 
-[Code 301 - Intermediate Software Development]()
+[Code 301 - Intermediate Software Development](./code-301/readme.md)
 
 [Code 401 - Advanced Software Development]()
