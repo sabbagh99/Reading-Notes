@@ -54,4 +54,6 @@
 
 > # Table of content.
 
-* [Reading class 01](code-301/Reading_notes_301_01.md)
+* [Reading class 01](code-301/Reading_notes_301_01.md) :SMACSS and Responsive Web Design
+
+* [Reading class 02](code-301/Reading_notes_301_02.md) : PAIR PROGRAMMING
