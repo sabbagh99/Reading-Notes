@@ -19,15 +19,15 @@
 
 > # Table of content.
 
-* [Reading class 01](code-201/Reading_notes_201_01.md) 
+* [Reading class 01](code-201/Reading_notes_201_01.md) : Introductory HTML and JavaScript
 
-* [Reading class 02](code-201/Reading_notes_201_02.md)
+* [Reading class 02](code-201/Reading_notes_201_02.md) : HTML Text, CSS Introduction, and Basic JavaScript Instructions
 
-* [Reading class 03](code-201/Reading_notes_201_03.md)
+* [Reading class 03](code-201/Reading_notes_201_03.md) : HTML Lists, CSS Boxes, JS Control Flow
 
-* [Reading class 04](code-201/Reading_notes_201_04.md)
+* [Reading class 04](code-201/Reading_notes_201_04.md) : 
 
-* [Reading class 05](code-201/Reading_notes_201_05.md)
+* [Reading class 05](code-201/Reading_notes_201_05.md): HTML Images; CSS Color & Text
 
 * [Reading class 06](code-201/Reading_notes_201_06.md)
 
@@ -57,3 +57,6 @@
 * [Reading class 01](code-301/Reading_notes_301_01.md) :SMACSS and Responsive Web Design
 
 * [Reading class 02](code-301/Reading_notes_301_02.md) : jQuery, Events, and The DOM
+
+
+* [Reading class 03](code-301/Reading_notes_301_03.md) : MUSTACHE and FLEXBOX
