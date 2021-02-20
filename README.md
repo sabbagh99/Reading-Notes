@@ -23,31 +23,30 @@
 
 * [Reading class 02](code-201/Reading_notes_201_02.md) : HTML Text, CSS Introduction, and Basic JavaScript Instructions
 
-* [Reading class 03](code-201/Reading_notes_201_03.md) : HTML Lists, CSS Boxes, JS Control Flow
+* [Reading class 03](code-201/Reading_notes_201_03.md) : HTML Lists, CSS Boxes, JS Control Flow 
 
-* [Reading class 04](code-201/Reading_notes_201_04.md) : 
+* [Reading class 04](code-201/Reading_notes_201_04.md) : HTML Links, CSS Layout, JS Functions
 
 * [Reading class 05](code-201/Reading_notes_201_05.md): HTML Images; CSS Color & Text
 
-* [Reading class 06](code-201/Reading_notes_201_06.md)
+* [Reading class 06](code-201/Reading_notes_201_06.md) :JS Object Literals; The DOM
 
-* [Reading class 07](code-201/Reading_notes_201_07.md)
+* [Reading class 07](code-201/Reading_notes_201_07.md) : HTML Tables; JS Constructor Functions
 
-* [Reading class 08](code-201/Reading_notes_201_08.md)
+* [Reading class 08](code-201/Reading_notes_201_08.md) :More CSS Layout
 
-* [Reading class 09](code-201/Reading_notes_201_09.md)
+* [Reading class 09](code-201/Reading_notes_201_09.md) : Forms and Events
 
-* [Reading class 10](code-201/Reading_notes_201_10.md)
+* [Reading class 10](code-201/Reading_notes_201_10.md) : JS Debugging
 
-* [Reading class 11](code-201/Reading_notes_201_11.md)
+* [Reading class 11](code-201/Reading_notes_201_11.md) :  Assorted Topics
 
-* [Reading class 12](code-201/Reading_notes_201_12.md)
+* [Reading class 12](code-201/Reading_notes_201_12.md) : Docs for the HTML canvas Element & Chart.js
 
-* [Reading class 13](code-201/Reading_notes_201_13.md)
+* [Reading class 13](code-201/Reading_notes_201_13.md) : Local Storage
 
-* [Reading class 14a](code-201/Reading_notes_201_14a.md)
-
-* [Reading class 14b](code-201/Reading_notes_201_14b.md)
+* [Reading class 14a](code-201/Reading_notes_201_14a.md) :CSS Transforms, Transitions, and Animations
+* [Reading class 14b](code-201/Reading_notes_201_14b.md) : What Google Learned About Teams
 
 # reading-notes_301
 ## **Here is reading-notes For *code_301* course and it will contain the all reading for this course, And will updated daily.**
@@ -65,3 +64,5 @@
 * [Reading class 04](code-301/Reading_notes_301_04.md) : CSS GRID
 
 * [Reading class 05](code-301/Reading_notes_301_05.md) : Heroku Deployment
+
+* [Reading class 06](code-301/Reading_notes_301_06.md) : Node, Express, and APIs
