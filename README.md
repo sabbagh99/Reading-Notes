@@ -66,3 +66,5 @@
 * [Reading class 05](code-301/Reading_notes_301_05.md) : Heroku Deployment
 
 * [Reading class 06](code-301/Reading_notes_301_06.md) : Node, Express, and APIs
+
+* [Reading class 07](code-301/Reading_notes_301_07.md) : APIs continued
