@@ -68,3 +68,6 @@
 * [Reading class 06](code-301/Reading_notes_301_06.md) : Node, Express, and APIs
 
 * [Reading class 07](code-301/Reading_notes_301_07.md) : APIs continued
+
+
+* [Reading class 08](code-301/Reading_notes_301_08.md) : SQL.
