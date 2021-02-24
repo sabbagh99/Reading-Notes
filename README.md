@@ -69,5 +69,6 @@
 
 * [Reading class 07](code-301/Reading_notes_301_07.md) : APIs continued
 
-
 * [Reading class 08](code-301/Reading_notes_301_08.md) : SQL.
+
+* [Reading class 09](code-301/Reading_notes_301_09.md) : Refactoring.
