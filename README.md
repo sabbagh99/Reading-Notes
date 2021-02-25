@@ -72,3 +72,5 @@
 * [Reading class 08](code-301/Reading_notes_301_08.md) : SQL.
 
 * [Reading class 09](code-301/Reading_notes_301_09.md) : Refactoring.
+
+* [Reading class 10](code-301/Reading_notes_301_10.md) :  The Call Stack and Debugging
