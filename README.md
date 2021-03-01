@@ -76,3 +76,5 @@
 * [Reading class 10](code-301/Reading_notes_301_10.md) :  The Call Stack and Debugging
 
 * [Reading class 11](code-301/Reading_notes_301_11.md) :  EJS
+
+* [Reading class 12](code-301/Reading_notes_301_12.md) : EJS Partials
