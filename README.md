@@ -78,3 +78,5 @@
 * [Reading class 11](code-301/Reading_notes_301_11.md) :  EJS
 
 * [Reading class 12](code-301/Reading_notes_301_12.md) : EJS Partials
+
+* [Reading class 13](code-301/Reading_notes_301_13.md) : Sending form data.
