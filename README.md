@@ -80,3 +80,7 @@
 * [Reading class 12](code-301/Reading_notes_301_12.md) : EJS Partials
 
 * [Reading class 13](code-301/Reading_notes_301_13.md) : Sending form data.
+
+* [Reading class 14a](code-301/Reading_notes_301_14a.md) : DATABASE NORMALIZATION
+
+* [Reading class 14b](code-301/Reading_notes_301_14b.md) :
