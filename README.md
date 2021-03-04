@@ -83,4 +83,6 @@
 
 * [Reading class 14a](code-301/Reading_notes_301_14a.md) : DATABASE NORMALIZATION
 
-* [Reading class 14b](code-301/Reading_notes_301_14b.md) :
+* [Reading class 14b](code-301/Reading_notes_301_14b.md) : Project Ideas & APIs
+
+* [Reading class 15](code-301/Reading_notes_301_15.md) : Diversity & Inclusion in the Tech Industry
