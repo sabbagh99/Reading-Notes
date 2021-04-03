@@ -15,7 +15,7 @@
 1. [Code 102 - Intro to Software Development](./code-102/README.md)
 
 # reading-notes_201
-## ** Here  reading-notes For *code_201* course and it will contain the all reading for this course, And will updated daily.**
+## **Here  reading-notes For *code_201* course and it will contain the all reading for this course, And will updated daily.**
 
 > # Table of content.
 
@@ -53,36 +53,42 @@
 
 > # Table of content.
 
-* [Reading class 01](code-301/Reading_notes_301_01.md) :SMACSS and Responsive Web Design
+* [Reading class 01](code-301/Reading_notes_301_01.md) :SMACSS and Responsive Web Design.
 
-* [Reading class 02](code-301/Reading_notes_301_02.md) : jQuery, Events, and The DOM
+* [Reading class 02](code-301/Reading_notes_301_02.md) : jQuery, Events, and The DOM.
+
+* [Reading class 03](code-301/Reading_notes_301_03.md) : MUSTACHE and FLEXBOX.
 
 
-* [Reading class 03](code-301/Reading_notes_301_03.md) : MUSTACHE and FLEXBOX
+* [Reading class 04](code-301/Reading_notes_301_04.md) : CSS GRID.
 
+* [Reading class 05](code-301/Reading_notes_301_05.md) : Heroku Deployment.
 
-* [Reading class 04](code-301/Reading_notes_301_04.md) : CSS GRID
+* [Reading class 06](code-301/Reading_notes_301_06.md) : Node, Express, and APIs.
 
-* [Reading class 05](code-301/Reading_notes_301_05.md) : Heroku Deployment
-
-* [Reading class 06](code-301/Reading_notes_301_06.md) : Node, Express, and APIs
-
-* [Reading class 07](code-301/Reading_notes_301_07.md) : APIs continued
+* [Reading class 07](code-301/Reading_notes_301_07.md) : APIs continued.
 
 * [Reading class 08](code-301/Reading_notes_301_08.md) : SQL.
 
 * [Reading class 09](code-301/Reading_notes_301_09.md) : Refactoring.
 
-* [Reading class 10](code-301/Reading_notes_301_10.md) :  The Call Stack and Debugging
+* [Reading class 10](code-301/Reading_notes_301_10.md) :  The Call Stack and Debugging.
 
-* [Reading class 11](code-301/Reading_notes_301_11.md) :  EJS
+* [Reading class 11](code-301/Reading_notes_301_11.md) :  EJS.
 
-* [Reading class 12](code-301/Reading_notes_301_12.md) : EJS Partials
+* [Reading class 12](code-301/Reading_notes_301_12.md) : EJS Partials.
 
 * [Reading class 13](code-301/Reading_notes_301_13.md) : Sending form data.
 
-* [Reading class 14a](code-301/Reading_notes_301_14a.md) : DATABASE NORMALIZATION
+* [Reading class 14a](code-301/Reading_notes_301_14a.md) : DATABASE NORMALIZATION.
 
-* [Reading class 14b](code-301/Reading_notes_301_14b.md) : Project Ideas & APIs
+* [Reading class 14b](code-301/Reading_notes_301_14b.md) : Project Ideas & APIs.
 
-* [Reading class 15](code-301/Reading_notes_301_15.md) : Diversity & Inclusion in the Tech Industry
+* [Reading class 15](code-301/Reading_notes_301_15.md) : Diversity & Inclusion in the Tech Industry.
+
+# reading-notes_401
+## **Here is reading-notes For *code_401* course and it will contain the all reading for this course, And will updated daily.**
+
+> # Table of content.
+
+* [Reading class 01](code-401/Reading_notes_401_01.md) :Java Basics.
