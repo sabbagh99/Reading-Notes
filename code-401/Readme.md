@@ -4,3 +4,4 @@
 > # Table of content.
 
 * [Reading class 01](Reading_notes_401_01.md) :Java Basics
+* [Reading class 02](Reading_notes_401_02.md) :Arrays, Loops, Imports
