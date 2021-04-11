@@ -97,3 +97,4 @@
 * [Reading class 04](code-401/Reading_notes_401_04.md) :OOP
 * [Reading class 05](code-401/Reading_notes_401_05.md) :Linked Lists
 
+* [Reading class 06](code-401/Reading_notes_401_06.md) :Inheritance and Interfaces
