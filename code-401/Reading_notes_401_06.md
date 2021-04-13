@@ -13,7 +13,7 @@
 ### 3. What we can do in the subclass?
 #### In subclass we can do any this that we are  usually in the any class like declare method fields with the same name as the super class. and any auther things.
 
-## B) Interfaces : 
+## B) Interfaces :
 
 ### 1. What is the meaning of the Interfaces ?
 

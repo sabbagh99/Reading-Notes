@@ -46,6 +46,7 @@
 * [Reading class 13](code-201/Reading_notes_201_13.md) : Local Storage
 
 * [Reading class 14a](code-201/Reading_notes_201_14a.md) :CSS Transforms, Transitions, and Animations
+
 * [Reading class 14b](code-201/Reading_notes_201_14b.md) : What Google Learned About Teams
 
 # reading-notes_301
@@ -58,7 +59,6 @@
 * [Reading class 02](code-301/Reading_notes_301_02.md) : jQuery, Events, and The DOM.
 
 * [Reading class 03](code-301/Reading_notes_301_03.md) : MUSTACHE and FLEXBOX.
-
 
 * [Reading class 04](code-301/Reading_notes_301_04.md) : CSS GRID.
 
@@ -92,9 +92,15 @@
 > # Table of content.
 
 * [Reading class 01](code-401/Reading_notes_401_01.md) :Java Basics.
-* [Reading class 02](code-401/Reading_notes_401_02.md) :Arrays, Loops, Imports
-* [Reading class 03](code-401/Reading_notes_401_03.md) :Maps, primitives, File I/O
-* [Reading class 04](code-401/Reading_notes_401_04.md) :OOP
-* [Reading class 05](code-401/Reading_notes_401_05.md) :Linked Lists
 
-* [Reading class 06](code-401/Reading_notes_401_06.md) :Inheritance and Interfaces
+* [Reading class 02](code-401/Reading_notes_401_02.md) :Arrays, Loops, Imports.
+
+* [Reading class 03](code-401/Reading_notes_401_03.md) :Maps, primitives, File I/O.
+
+* [Reading class 04](code-401/Reading_notes_401_04.md) :OOP.
+
+* [Reading class 05](code-401/Reading_notes_401_05.md) :Linked Lists.
+
+* [Reading class 06](code-401/Reading_notes_401_06.md) :Inheritance and Interfaces.
+
+* [Reading class 08](code-401/Reading_notes_401_08.md) :OO Design
