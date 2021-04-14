@@ -16,3 +16,6 @@
 * [Reading class 06](Reading_notes_401_06.md) :Inheritance and Interfaces.
 
 * [Reading class 08](Reading_notes_401_08.md) :OO Design.
+
+* [Reading class 09](Reading_notes_401_09.md) :WRRC and Java.
+
