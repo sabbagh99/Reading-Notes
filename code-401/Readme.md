@@ -22,3 +22,5 @@
 * [Reading class 10](Reading_notes_401_10.md) :Stacks and Queues.
 
 * [Reading class 11](Reading_notes_401_11.md) :Spring.
+
+* [Reading class 12](Reading_notes_401_12.md) :Spring RESTful Routing & Static Files.
