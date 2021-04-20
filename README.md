@@ -112,3 +112,5 @@
 * [Reading class 11](code-401/Reading_notes_401_11.md) :Spring.
 
 * [Reading class 12](code-401/Reading_notes_401_12.md) :Spring RESTful Routing & Static Files.
+
+* [Reading class 13](code-401/Reading_notes_401_13.md) :Related Resources and Integration Testing.
