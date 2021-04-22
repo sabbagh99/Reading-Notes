@@ -1,5 +1,6 @@
 # Reading Notes
-### This page is to sammary reading topics and writing some notes.
+
+### This page is to sammary reading topics and writing some notes
 
 ## Code 102 - Intro to Software Development
 
@@ -9,21 +10,21 @@
 
 ## Code 401 - Advanced Software Development
 
-
-#### You can check my reading for code-102 here 
+#### You can check my reading for code-102 here
 
 1. [Code 102 - Intro to Software Development](./code-102/README.md)
 
 # reading-notes_201
+
 ## **Here  reading-notes For *code_201* course and it will contain the all reading for this course, And will updated daily.**
 
-> # Table of content.
+> # Table of content
 
 * [Reading class 01](code-201/Reading_notes_201_01.md) : Introductory HTML and JavaScript
 
 * [Reading class 02](code-201/Reading_notes_201_02.md) : HTML Text, CSS Introduction, and Basic JavaScript Instructions
 
-* [Reading class 03](code-201/Reading_notes_201_03.md) : HTML Lists, CSS Boxes, JS Control Flow 
+* [Reading class 03](code-201/Reading_notes_201_03.md) : HTML Lists, CSS Boxes, JS Control Flow
 
 * [Reading class 04](code-201/Reading_notes_201_04.md) : HTML Links, CSS Layout, JS Functions
 
@@ -50,9 +51,10 @@
 * [Reading class 14b](code-201/Reading_notes_201_14b.md) : What Google Learned About Teams
 
 # reading-notes_301
+
 ## **Here is reading-notes For *code_301* course and it will contain the all reading for this course, And will updated daily.**
 
-> # Table of content.
+> # Table of content
 
 * [Reading class 01](code-301/Reading_notes_301_01.md) :SMACSS and Responsive Web Design.
 
@@ -87,9 +89,10 @@
 * [Reading class 15](code-301/Reading_notes_301_15.md) : Diversity & Inclusion in the Tech Industry.
 
 # reading-notes_401
+
 ## **Here is reading-notes For *code_401* course and it will contain the all reading for this course, And will updated daily.**
 
-> # Table of content.
+> # Table of content
 
 * [Reading class 01](code-401/Reading_notes_401_01.md) :Java Basics.
 
@@ -114,3 +117,5 @@
 * [Reading class 12](code-401/Reading_notes_401_12.md) :Spring RESTful Routing & Static Files.
 
 * [Reading class 13](code-401/Reading_notes_401_13.md) :Related Resources and Integration Testing.
+
+* [Reading class 15](code-401/Reading_notes_401_15.md) :Trees.
