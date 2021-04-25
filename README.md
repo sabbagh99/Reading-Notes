@@ -119,3 +119,5 @@
 * [Reading class 13](code-401/Reading_notes_401_13.md) :Related Resources and Integration Testing.
 
 * [Reading class 15](code-401/Reading_notes_401_15.md) :Trees.
+
+* [Reading class 16](code-401/Reading_notes_401_16.md) :Spring Authentication.

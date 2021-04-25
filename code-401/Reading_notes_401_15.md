@@ -29,6 +29,5 @@
 * ##### In-order: `left >> root >> right`
 
 * ##### Post-order: `left >> right >> root`
-`
 
 #### In the Breadth first traversal iterates through the tree by going through each level of the tree node-by-nodeز
