@@ -31,3 +31,5 @@
 * [Reading class 15](Reading_notes_401_15.md) :Trees.
 
 * [Reading class 16](Reading_notes_401_16.md) :Spring Authentication.
+
+* [Reading class 17](Reading_notes_401_17.md) :Spring Boot and OAuth2.

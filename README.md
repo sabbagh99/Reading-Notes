@@ -121,3 +121,6 @@
 * [Reading class 15](code-401/Reading_notes_401_15.md) :Trees.
 
 * [Reading class 16](code-401/Reading_notes_401_16.md) :Spring Authentication.
+
+* [Reading class 17](code-401/Reading_notes_401_17.md) :Spring Boot and OAuth2.
+
