@@ -35,3 +35,6 @@
 * [Reading class 17](Reading_notes_401_17.md) :Spring Boot and OAuth2.
 
 * [Reading class 18](Reading_notes_401_18.md) : Web App Security.
+
+
+* [Reading class 19](Reading_notes_401_19.md) : Real time messaging with websockets.
