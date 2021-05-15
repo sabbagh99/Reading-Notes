@@ -36,5 +36,6 @@
 
 * [Reading class 18](Reading_notes_401_18.md) : Web App Security.
 
-
 * [Reading class 19](Reading_notes_401_19.md) : Real time messaging with websockets.
+
+* [Reading class 20](Reading_notes_401_20.md) : Android Fundamentals.
