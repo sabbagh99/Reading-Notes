@@ -38,4 +38,6 @@
 
 * [Reading class 19](Reading_notes_401_19.md) : Real time messaging with websockets.
 
-* [Reading class 20](Reading_notes_401_20.md) : Android Fundamentals.
+* [Reading class 26](Reading_notes_401_26.md) : Android Fundamentals.
+
+* [Reading class 27](Reading_notes_401_27.md) : Intents, Activities, and SharedPreferences.
