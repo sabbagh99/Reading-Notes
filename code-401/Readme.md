@@ -43,3 +43,6 @@
 * [Reading class 27](Reading_notes_401_27.md) : Intents, Activities, and SharedPreferences.
 
 * [Reading class 28](Reading_notes_401_28.md) : Create dynamic lists with RecyclerView.
+
+* [Reading class 29](Reading_notes_401_29.md) : Room.
+
