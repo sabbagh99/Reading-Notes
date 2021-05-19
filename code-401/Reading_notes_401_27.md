@@ -1,4 +1,4 @@
-* # Intents, Activities, and SharedPreferences
+# A) Intents, Activities, and SharedPreferences
 
 ## 1. Tasks : " task is a collection of activities that users interact with when performing a certain job "
 
@@ -6,17 +6,17 @@
 
 ## Managing Tasks : android managing his tasks by placing all activeties in  the same task and in a "last in, first out" stack 
 
-* # Save key-value data
+# B) Save key-value data
 
 ## SharedPreferences : we can use it if we  have a relatively small collection of key-values that you'd like to save,
 
-### Get a handle to shared preferences 
+### Get a handle to shared preferences
 
 #### to do that we need to  create a new shared preference file or access an existing one by calling one of these methods:
 
 * #### getSharedPreferences() : Use this if you need multiple shared preference files identified by name
 
-* #### getPreferences() — Use this from an Activity if you need to use only one shared preference file for the activity. 
+* #### getPreferences() — Use this from an Activity if you need to use only one shared preference file for the activity.
 
 
 #### If we want to write  a shared preferences file,  we need to create a SharedPreferences.Editor by calling edit() on your SharedPreferences.
