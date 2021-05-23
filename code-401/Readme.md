@@ -47,3 +47,5 @@
 * [Reading class 29](Reading_notes_401_29.md) : Room.
 
 * [Reading class 30](Reading_notes_401_30.md) : Hash Tables.
+
+* [Reading class 31](Reading_notes_401_31.md) : Espresso.

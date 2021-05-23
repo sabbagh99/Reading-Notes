@@ -138,3 +138,4 @@
 
 * [Reading class 30](code-401/Reading_notes_401_30.md) : Hash Tables.
 
+* [Reading class 31](code-401/Reading_notes_401_31.md) : Espresso.
