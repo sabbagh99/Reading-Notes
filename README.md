@@ -141,3 +141,6 @@
 * [Reading class 31](code-401/Reading_notes_401_31.md) : Espresso.
 
 * [Reading class 32](code-401/Reading_notes_401_32.md) : Serverless and Amplify.
+
+* [Reading class 33](code-401/Reading_notes_401_33.md) :  GraphQL @connection.
+
