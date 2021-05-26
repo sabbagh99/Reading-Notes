@@ -53,3 +53,5 @@
 * [Reading class 32](Reading_notes_401_32.md) : Serverless and Amplify.
 
 * [Reading class 33](Reading_notes_401_33.md) :  GraphQL @connection.
+
+* [Reading class 34](Reading_notes_401_34.md) :  Graphs
