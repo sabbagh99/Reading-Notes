@@ -37,3 +37,14 @@ _______________
 ### 1. Acyclic Graph : An acyclic graph is a directed graph without cycles.
 
 ### 2.Cyclic Graphs : A Cyclic graph is a graph that has cycles.
+
+_____
+
+## Graph Representation 
+
+### we can representation graph in two way :
+
+#### 1. Adjacency Matrix : An Adjacency matrix is represented through a 2-dimensional array. If there are n vertices, then we are looking at an n x n Boolean matrix
+
+#### 2. Adjacency List  : An adjacency list is a collection of linked lists or array that lists all of the other vertices that are connected.
+
