@@ -57,3 +57,5 @@
 * [Reading class 34](Reading_notes_401_34.md) :  Amplify with Cognito for Login
 
 * [Reading class 35](Reading_notes_401_35.md) :  Graphs
+
+* [Reading class 36](Reading_notes_401_36.md) :  Cognito
