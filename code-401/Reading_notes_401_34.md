@@ -1,50 +1,25 @@
-# Graphs 
+# Amplify with Cognito for Login 
 
-## What is graphs?
+## In this read it's telling us how to deal with Google Play's billing system and how and when to use it for example it's recommend for developers to use Google Pay to include the following:
 
-### " A graph is a non-linear data structure that can be looked at as a collection of vertices (or nodes) potentially connected by line segments named edges."
+* ### Retail merchandise
 
-## common terminology in graphs we need to know :
+* ### Physical services
 
-### 1. Vertex  - A vertex, also called a “node”, is a data object that can have zero or more adjacent vertices.
+* ### One-time membership fees or recurring dues
 
-### 2. Edge - An edge is a connection between two nodes.
+* ### Electronic bill payment
 
-### 3. Neighbor - The neighbors of a node are its adjacent nodes, i.e., are connected via an edge.
+## and there is some strategy for setting your initial monetization like :
 
-### 4. Degree - The degree of a vertex is the number of edges connected to that vertex.
-____________________________
+* ### Research other apps in your category.
 
-## Directed vs Undirected
+* ###  Think about how your app will be used.
 
-* ### Directed Graphs (Digraph): is a graph where every edge is directed.
+* ### Make use of natural extensions
 
-* ### Undirected Graphs :  is a graph where each edge is undirected or bi-directional.
+* ### Consider your cost structures
 
-## We have two type of graphs :
+* ### Consider your audience.
 
-### 1. Complete Graphs: A complete graph is when all nodes are connected to all other nodes.
-
-### 2. Connected : A connected graph is graph that has all of vertices/nodes have at least one edge.
-
-### 3. Disconnected : A disconnected graph is a graph where some vertices may not have edges.
-
-_______________
-
-## Acyclic vs Cyclic
-
-
-### 1. Acyclic Graph : An acyclic graph is a directed graph without cycles.
-
-### 2.Cyclic Graphs : A Cyclic graph is a graph that has cycles.
-
-_____
-
-## Graph Representation 
-
-### we can representation graph in two way :
-
-#### 1. Adjacency Matrix : An Adjacency matrix is represented through a 2-dimensional array. If there are n vertices, then we are looking at an n x n Boolean matrix
-
-#### 2. Adjacency List  : An adjacency list is a collection of linked lists or array that lists all of the other vertices that are connected.
-
+* ### Consider local factors when setting prices.

@@ -54,4 +54,6 @@
 
 * [Reading class 33](Reading_notes_401_33.md) :  GraphQL @connection.
 
-* [Reading class 34](Reading_notes_401_34.md) :  Graphs
+* [Reading class 34](Reading_notes_401_34.md) :  Amplify with Cognito for Login
+
+* [Reading class 35](Reading_notes_401_35.md) :  Graphs
