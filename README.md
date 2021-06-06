@@ -151,3 +151,5 @@
 * [Reading class 36](code-401/Reading_notes_401_36.md) :  Cognito
 
 * [Reading class 37](code-401/Reading_notes_401_37.md) :  S3
+
+* [Reading class 38](code-401/Reading_notes_401_38.md) :  Notifications
