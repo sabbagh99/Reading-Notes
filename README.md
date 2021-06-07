@@ -154,7 +154,11 @@
 
 * [Reading class 38](code-401/Reading_notes_401_38.md) :  Notifications
 
-* [Reading class 41](code-401/Reading_notes_401_41.md) :  Intent Filters.
+* [Reading class 40](code-401/Reading_notes_401_4.md) :  Intent Filters.
 
 
-* [Reading class 42](code-401/Reading_notes_401_42.md) :  Location
+* [Reading class 41](code-401/Reading_notes_401_41.md) :  Location
+______________________
+# Ethics  
+
+* [Reading class 42](code-401/Reading_notes_401_42.md) :  Ethics in Tech

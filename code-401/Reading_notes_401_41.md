@@ -1,37 +1,29 @@
-# Intent Filters
+# Location
+ 
+ ## Get the last known location
 
-## Allowing Other Apps to Start Your Activity
+### if you want to get the user current location you can use  Google Play services location APIs, which is usually equivalent to the last known location of the device.
+_________________
+## Set up Google Play services
 
-### If your application provide uploding imeges shere masseges and so you need to allow other user start your activity to do so you need to use intent filters by support the [ACTION_SEND](https://developer.android.com/reference/android/content/Intent#ACTION_SEND) intent
+### To access the fused location provider, your app's  must include Google Play services. we can find it  in Google Play services component via the SDK Manager and add the library to your project.
 
 
-## Start using Intent Filters :
+_________________________
 
-#### 1.add an <[intent-filter](https://developer.android.com/guide/topics/manifest/intent-filter-element)> element in your manifest file.
+## Specify app permissions 
+### Apps whose features use location services must [request location permissions](https://developer.android.com/training/location/permissions), depending on the use cases of those features.
 
-#### 2. Add an Intent Filter Action (ACTION_SEND) / Data ( <data>) /  Category (CATEGORY_DEFAULT).
+___________________________
+## Create location services client 
 
-#### 3. Handle the Intent in Your Activity 
-##### we need to add this code in our on create method:
+### For creating location service we need to add  an instance of the Fused Location Provider Client  
+____________________________
+## Get the last known location
 
-@Override
-protected void onCreate(Bundle savedInstanceState) {
-    super.onCreate(savedInstanceState);
 
-    setContentView(R.layout.main);
+### We can now get the last known location of a user's device after we have created the Location Services client . When the  app is connected to these we can use the fused location provider's getLastLocation() 
 
-    // Get the intent that started this activity
-    Intent intent = getIntent();
-    Uri data = intent.getData();
+### If we want  to request the last known location, call the getLastLocation() method.
 
-    // Figure out what to do based on the intent type
-    if (intent.getType().indexOf("image/") != -1) {
-        // Handle intents with image data ...
-    } else if (intent.getType().equals("text/plain")) {
-        // Handle intents with text ...
-    }
-}
 
-#### 4. Return a Result 
-##### If you want to return a result to the activity that invoked yours, simply call setResult() to specify the result code and result Intent
-.

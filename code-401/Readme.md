@@ -64,6 +64,8 @@
 
 * [Reading class 38](Reading_notes_401_38.md) :  Notifications
 
-* [Reading class 41](Reading_notes_401_41.md) :  Intent Filters.
+* [Reading class 40](Reading_notes_401_40.md) :  Intent Filters.
 
-* [Reading class 42](Reading_notes_401_42.md) :  Location
+* [Reading class 41](Reading_notes_401_41.md) :  Location
+
+* [Reading class 42](Reading_notes_401_42.md) :  Ethics in Tech
