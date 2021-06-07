@@ -12,6 +12,9 @@
 #### 1. Modernize and decouple your applications
 
 #### 2. Send messages directly to millions of users
+
 #### 3. Reliably deliver messages
+
 #### 4. Automatically scale your workload
+
 #### 5. Simplify your architecture with Message Filtering
